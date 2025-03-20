@@ -1,16 +1,10 @@
 # Виртуальное окружение
 venv/
+
 *.env
-
-
 
 # Кэш Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Файлы зависимостей
-*.egg-info/
-dist/
-build/
